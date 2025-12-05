@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Vision Logger",
+  "description": "An image analysis tool using Gemini API with secure local processing and file export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
